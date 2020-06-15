@@ -2,7 +2,7 @@ import cProfile
 
 from fastapi.testclient import TestClient
 
-from test_api import app
+from test_starlette import app
 
 
 prof = cProfile.Profile()
