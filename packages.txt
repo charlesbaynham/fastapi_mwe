@@ -34,7 +34,9 @@ PyYAML==5.3.1
 requests==2.23.0
 Rx==1.6.1
 six==1.15.0
+snakeviz==2.1.0
 starlette==0.13.2
+tornado==6.0.4
 ujson==3.0.0
 urllib3==1.25.9
 uvicorn==0.11.5
