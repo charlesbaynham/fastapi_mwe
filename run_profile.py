@@ -1,6 +1,6 @@
 import cProfile
 
-from fastapi.testclient import TestClient
+from starlette.testclient import TestClient
 
 from test_starlette import app
 
