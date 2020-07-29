@@ -7,6 +7,6 @@ idna==2.9
 requests==2.23.0
 starlette==0.13.4
 urllib3==1.25.9
-uvicorn==0.11.5
+uvicorn==0.11.7
 uvloop==0.14.0
 websockets==8.1
